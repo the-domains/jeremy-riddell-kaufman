@@ -1,0 +1,23 @@
+layout_spectrum: 0.8521577478838291
+typography_spectrum: 0.4328873225973716
+color:
+  brandStrength: 0.8640801990602055
+  lightness: 0.28717616523154965
+  saturation: 0.0854815098099263
+  rhythmicContrast: 0.772189979572679
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Jeremy Riddell-kaufman
+content: []
+github: true
